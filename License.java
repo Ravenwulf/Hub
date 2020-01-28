@@ -50,7 +50,8 @@ public class License {
 			// new Person("Case", "J", "Joseph", "M", 9,18,03),
 			// new Person("Hutchison", "E", "Ethan","M", 3,11,04),
 			// new Person("Reincke", "P", "Evan", "M", 1,2,04),
-			new Person("Pezzella", "", "Adriano", "M", 11, 28, 68),
+			//new Person("Pezzella", "", "Adriano", "M", 11, 28, 68),
+			new Person("Bryczek", "D", "Grant", "M", 9,2,03),
 
 			
     };
