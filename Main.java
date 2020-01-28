@@ -5,7 +5,8 @@ class Main {
 		//License nlicense = new License();
 		//Encumb nencumb = new Encumb();
 		//Line nline = new Line();
-		WordGame nwordgame = new WordGame();
+		//WordGame nwordgame = new WordGame();
+		//StudentStart nstudentstart = new StudentStart();
 
   }
 }
